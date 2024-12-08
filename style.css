@@ -6,9 +6,9 @@ body {
     margin: 0;
     font-family: 'Open Sans', sans-serif;
     background: #222;
-    background-image: url('./pictures/spring.jpg');
-    background-repeat: no-repeat;
-    background-size:cover;
+    background-image: url(./pictures/spring.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
     font-size: 120%;
   }
   
